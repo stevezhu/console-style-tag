@@ -1,5 +1,5 @@
 require('jest-extended')
-const consoleStyle = require('console-style-tag')
+const consoleStyle = require('./index')
 
 describe('console-style-tag', () => {
   it('should return a function', () => {
