@@ -1,5 +1,6 @@
 {
   "name": "@stzhu/console-style-tag",
+  "description": "Package for styling console logs in developer tools.",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/stevezhu/console-style-tag",
