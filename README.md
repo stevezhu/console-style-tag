@@ -1,3 +1,8 @@
+[![npm](https://img.shields.io/npm/v/@stzhu/console-style-tag.svg)](https://www.npmjs.com/package/@stzhu/console-style-tag)
+[![GitHub](https://img.shields.io/github/license/stevezhu/console-style-tag.svg)](https://github.com/stevezhu/console-style-tag/blob/master/LICENSE)
+[![Build Status](https://travis-ci.com/stevezhu/console-style-tag.svg)](https://travis-ci.com/stevezhu/console-style-tag)
+[![devDependencies Status](https://david-dm.org/stevezhu/console-style-tag/dev-status.svg)](https://david-dm.org/stevezhu/console-style-tag?type=dev)
+
 Package for styling console logs in developer tools.
 
 # Usage
