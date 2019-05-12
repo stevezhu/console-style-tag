@@ -6,7 +6,9 @@
   "author": "Steve Zhu <st.zhu1@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "benchmark": "node benchmark.js"
+    "benchmark": "node benchmark.js",
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
