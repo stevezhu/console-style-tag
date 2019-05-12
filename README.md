@@ -1,4 +1,4 @@
-Package for styling console logs in chrome and firefox developer tools.
+Package for styling console logs in developer tools.
 
 # Usage
 
